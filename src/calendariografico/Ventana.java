@@ -1,13 +1,13 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ * Ventana.java.
+ * Licencia GNU.
  */
 package calendariografico;
 
 import javax.swing.JOptionPane;
 
 /**
- * interfaz grafica para mostrar un calendario grafico con la libreria 
+ * Interfaz grafica para mostrar un calendario grafico con la librería 
  * javax.swing.JOptionPane .
  * @author Ing. Ricardo Presilla
  * @version 1.0.
